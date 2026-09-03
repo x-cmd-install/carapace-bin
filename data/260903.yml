@@ -1,0 +1,59 @@
+about:
+  description: A multi-shell completion binary.
+  license: MIT
+  homepage: https://carapace.sh
+  head: ce46ea6
+  archived: false
+  latestVersion: v1.7.3
+  collectedAt: 2026-09-03T04:50:20Z
+timeline:
+  created: 2020-04-20
+  lastCommit: 2026-09-02
+  lastRelease: 2026-06-30
+popularity:
+  star: 1943
+  watcher: 5
+  fork: 143
+  release: 183
+  contributor: 72
+  pullRequest: 153
+  issue: 360
+language:
+  Go: 13497874
+  Dockerfile: 5130
+  Shell: 1154
+  Nix: 751
+totalLine: 13504909
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 74
+    openPR: 20
+    closedIssue: 4
+    openIssue: 2
+    commit: 79
+  last90d:
+    since: 2026-06-05
+    release: 3
+    mergedPR: 200
+    openPR: 22
+    closedIssue: 10
+    openIssue: 7
+    commit: 302
+  last180d:
+    since: 2026-03-07
+    release: 7
+    mergedPR: 334
+    openPR: 23
+    closedIssue: 25
+    openIssue: 16
+    commit: 459
+  last360d:
+    since: 2025-09-08
+    release: 19
+    mergedPR: 625
+    openPR: 24
+    closedIssue: 61
+    openIssue: 23
+    commit: 801
