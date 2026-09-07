@@ -5,7 +5,7 @@ about:
   head: d5cd577
   archived: false
   latestVersion: "v1.7.3"
-  collectedAt: 2026-09-07T04:22:26Z
+  collectedAt: 2026-09-07T20:06:01Z
 timeline:
   created: 2020-04-20
   lastCommit: 2026-09-06
@@ -82,7 +82,7 @@ total:
   commit: 6649
 ---
 path: /home/runner/.x-repo/github.com/carapace-sh/carapace-bin
-collectedAt: 2026-09-07T04:22:32Z
+collectedAt: 2026-09-07T20:06:08Z
 loc:
   Go:
     code: 314437
@@ -148,7 +148,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:34+00:00
+  collectedAt: 2026-09-07T20:06:12+00:00
   platform:
     darwin/arm64:
       name:  carapace-bin_1.7.3_darwin_arm64.tar.gz
