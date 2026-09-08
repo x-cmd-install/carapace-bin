@@ -5,7 +5,7 @@ about:
   head: d5cd577
   archived: false
   latestVersion: "v1.7.3"
-  collectedAt: 2026-09-08T01:41:01Z
+  collectedAt: 2026-09-08T04:22:52Z
 timeline:
   created: 2020-04-20
   lastCommit: 2026-09-06
@@ -82,7 +82,7 @@ total:
   commit: 6649
 ---
 path: /home/runner/.x-repo/github.com/carapace-sh/carapace-bin
-collectedAt: 2026-09-08T01:41:07Z
+collectedAt: 2026-09-08T04:23:00Z
 loc:
   Go:
     code: 314437
