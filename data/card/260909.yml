@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.3"
   latestRelease: "v1.7.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:28:05Z
+  collectedAt: 2026-09-09T18:50:57Z
 timeline:
   created: 2020-04-20
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-30
   lastPrerelease: 
 popularity:
-  star: 1948
+  star: 1950
   watcher: 5
   fork: 144
   release: 183
@@ -86,7 +86,7 @@ total:
   commit: 6651
 ---
 path: /home/runner/.x-repo/github.com/carapace-sh/carapace-bin
-collectedAt: 2026-09-09T04:28:16Z
+collectedAt: 2026-09-09T18:51:04Z
 loc:
   Go:
     code: 314437
