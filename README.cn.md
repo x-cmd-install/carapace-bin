@@ -4,7 +4,7 @@
 
 A multi-shell completion binary.
 
-![carapace-bin](https://repo.x-cmd.io/carapace-bin.svg)
+![carapace-bin](https://repo.x-cmd.io/carapace-bin.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,37 @@ x install carapace-bin
 - **最新版本**: `v1.7.3` (2026-06-30)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 26 个
-- **发布时间**: 2026-06-30T21:21:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [carapace-bin_1.7.3_android_386.termux.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_android_386.termux.deb) | 17.8 MiB | `other` |
+| [carapace-bin_1.7.3_android_amd64.termux.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_android_amd64.termux.deb) | 15.1 MiB | `other` |
+| [carapace-bin_1.7.3_android_arm64.termux.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_android_arm64.termux.deb) | 14.1 MiB | `other` |
+| [carapace-bin_1.7.3_android_armv6.termux.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_android_armv6.termux.deb) | 16.4 MiB | `other` |
+| [carapace-bin_1.7.3_checksums.txt](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_checksums.txt) | 2.5 KiB | `other` |
+| [carapace-bin_1.7.3_darwin_amd64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_darwin_amd64.tar.gz) | 14.0 MiB | `native/darwin/x64` |
+| [carapace-bin_1.7.3_darwin_arm64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_darwin_arm64.tar.gz) | 13.5 MiB | `native/darwin/arm64` |
+| [carapace-bin_1.7.3_linux_386.apk](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_386.apk) | 14.4 MiB | `other` |
+| [carapace-bin_1.7.3_linux_386.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_386.deb) | 13.7 MiB | `other` |
+| [carapace-bin_1.7.3_linux_386.rpm](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_386.rpm) | 13.7 MiB | `other` |
+| [carapace-bin_1.7.3_linux_386.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_386.tar.gz) | 13.7 MiB | `native/unknown` |
+| [carapace-bin_1.7.3_linux_amd64.apk](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.apk) | 15.5 MiB | `native/linux/x64` |
+| [carapace-bin_1.7.3_linux_amd64.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.deb) | 14.7 MiB | `native/linux/x64` |
+| [carapace-bin_1.7.3_linux_amd64.rpm](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.rpm) | 14.7 MiB | `native/linux/x64` |
+| [carapace-bin_1.7.3_linux_amd64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.tar.gz) | 14.7 MiB | `native/linux/x64` |
+| [carapace-bin_1.7.3_linux_arm64.apk](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.apk) | 14.3 MiB | `native/linux/arm64` |
+| [carapace-bin_1.7.3_linux_arm64.deb](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.deb) | 13.6 MiB | `native/linux/arm64` |
+| [carapace-bin_1.7.3_linux_arm64.rpm](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.rpm) | 13.6 MiB | `native/linux/arm64` |
+| [carapace-bin_1.7.3_linux_arm64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.tar.gz) | 13.6 MiB | `native/linux/arm64` |
+| [carapace-bin_1.7.3_termux_386.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_386.tar.gz) | 17.8 MiB | `native/unknown` |
+| [carapace-bin_1.7.3_termux_amd64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_amd64.tar.gz) | 15.1 MiB | `native/linux/x64` |
+| [carapace-bin_1.7.3_termux_arm64.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_arm64.tar.gz) | 14.1 MiB | `native/linux/arm64` |
+| [carapace-bin_1.7.3_termux_armv6.tar.gz](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_armv6.tar.gz) | 16.4 MiB | `native/linux/arm` |
+| [carapace-bin_1.7.3_windows_386.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_386.zip) | 14.2 MiB | `native/win/x64` |
+| [carapace-bin_1.7.3_windows_amd64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_amd64.zip) | 14.5 MiB | `native/win/x64` |
+| [carapace-bin_1.7.3_windows_arm64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_arm64.zip) | 13.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -62,4 +92,4 @@ carapace-bin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:56Z._
