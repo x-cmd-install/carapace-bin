@@ -12,6 +12,18 @@ A multi-shell completion binary.
 x install carapace-bin
 ```
 
+## Code insight
+
+Total: **437,422** lines of code across **19502** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 315,263 | 5,102 | 57,551 | 12902 |
+| Yaml | 112,493 | 6,383 | 3,633 | 6596 |
+| Json | 6,066 | 0 | 0 | 1 |
+| Css | 3,196 | 22 | 7 | 2 |
+| Handlebars | 322 | 16 | 33 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/carapace-sh/carapace-bin>
@@ -23,6 +35,25 @@ x install carapace-bin
 - **Latest**: `v1.7.3` (2026-06-30)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 26
+
+## Popularity
+
+- **Stars**: 1,949 · **Forks**: 144 · **Open issues**: 363 · **Contributors**: 75
+
+## Totals (cumulative)
+
+- **Releases**: 183 · **Merged PRs**: 3218 · **Open PRs**: 21 · **Closed issues**: 294 · **Open issues**: 69 · **Commits**: 6659
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 70 | 15 | 5 | 2 | 76 |
+| last60d | 2026-07-12 | 0 | 123 | 17 | 9 | 5 | 150 |
+| 90d | 2026-06-12 | 3 | 204 | 18 | 13 | 7 | 295 |
+| last180d | 2026-03-14 | 7 | 342 | 19 | 27 | 15 | 470 |
+| 360d | 2025-09-15 | 18 | 635 | 19 | 62 | 22 | 816 |
+| last720d | 2024-09-20 | 30 | 957 | 21 | 126 | 39 | 2025 |
 
 ## Release assets
 
@@ -55,33 +86,9 @@ x install carapace-bin
 | [carapace-bin_1.7.3_windows_amd64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_amd64.zip) | 14.5 MiB | `native/win/x64` |
 | [carapace-bin_1.7.3_windows_arm64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_arm64.zip) | 13.2 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,949 · **Forks**: 144 · **Open issues**: 363 · **Contributors**: 75
-
-## Totals (cumulative)
-
-- **Releases**: 183 · **Merged PRs**: 3218 · **Open PRs**: 21 · **Closed issues**: 294 · **Open issues**: 69 · **Commits**: 6659
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 70 | 15 | 5 | 2 | 76 |
-| 90d | 2026-06-12 | 3 | 204 | 18 | 13 | 7 | 295 |
-| 360d | 2025-09-15 | 18 | 635 | 19 | 62 | 22 | 816 |
-
-## Code size
-
-Total: **437,422** lines of code across **19502** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 315,263 | 5,102 | 57,551 | 12902 |
-| Yaml | 112,493 | 6,383 | 3,633 | 6596 |
-| Json | 6,066 | 0 | 0 | 1 |
-| Css | 3,196 | 22 | 7 | 2 |
-| Handlebars | 322 | 16 | 33 | 1 |
+Reported by **2** distros on [repology.org](https://repology.org/project/carapace-bin). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -92,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:12:14Z._
