@@ -1,0 +1,25 @@
+- repo: altsisyphus
+  srcname: carapace-bin
+  binnames:
+    - carapace-bin
+    - carapace-bin-debuginfo
+  visiblename: carapace-bin
+  version: 1.7.3
+  origversion: 1.7.3-alt1
+  status: newest
+  summary: A multi-shell completion binary
+  maintainers:
+    - ildar@altlinux.ru
+  licenses:
+    - MIT
+  categories:
+    - Shells
+- repo: scoop
+  subrepo: extras
+  binname: carapace-bin
+  visiblename: carapace-bin
+  version: 1.7.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
