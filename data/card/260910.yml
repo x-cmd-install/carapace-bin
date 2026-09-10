@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.3"
   latestRelease: "v1.7.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:11:43Z
+  collectedAt: 2026-09-10T23:35:42Z
 timeline:
   created: 2020-04-20
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 6659
 ---
 path: /home/runner/.x-repo/github.com/carapace-sh/carapace-bin
-collectedAt: 2026-09-10T20:11:53Z
+collectedAt: 2026-09-10T23:35:50Z
 loc:
   Go:
     code: 315263
