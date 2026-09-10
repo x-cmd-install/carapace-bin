@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15788624,
       "digest": "sha256:cdafacb496fdaf12f60ffaab9f09ea0ffc6c09406abc52658f307306bad3e347",
-      "download_count": 300,
+      "download_count": 302,
       "created_at": "2026-06-30T21:36:11Z",
       "updated_at": "2026-06-30T21:36:12Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_android_amd64.termux.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2586,
       "digest": "sha256:a2b5778b2d3bbea2b16da08cdc239831b58fa29de9e028b74ee55c94d788b236",
-      "download_count": 475,
+      "download_count": 476,
       "created_at": "2026-06-30T21:36:13Z",
       "updated_at": "2026-06-30T21:36:13Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14659591,
       "digest": "sha256:23649b6a52bd68d00e8b88e95afadac09e9450fa49b49a95fcabd81b387de4b6",
-      "download_count": 323,
+      "download_count": 325,
       "created_at": "2026-06-30T21:36:03Z",
       "updated_at": "2026-06-30T21:36:04Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_darwin_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14125833,
       "digest": "sha256:a7e79d8787ffc63c26568e8d8256d12df91f5cda0d9dc83d50e90b8567028a9d",
-      "download_count": 1477,
+      "download_count": 1493,
       "created_at": "2026-06-30T21:36:03Z",
       "updated_at": "2026-06-30T21:36:04Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_darwin_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 16240001,
       "digest": "sha256:5775397b0632ab6b746f226f6a2d35ccccc1896da6291fa2472dd367918fdc43",
-      "download_count": 311,
+      "download_count": 313,
       "created_at": "2026-06-30T21:36:08Z",
       "updated_at": "2026-06-30T21:36:09Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.apk"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15459282,
       "digest": "sha256:445137d99bb6af4409f265d32d1cbef9be09d74df3f21e856bf508196e9f4ba5",
-      "download_count": 611,
+      "download_count": 613,
       "created_at": "2026-06-30T21:36:11Z",
       "updated_at": "2026-06-30T21:36:12Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15441820,
       "digest": "sha256:001d86220ea923c73f28dae4156b751773ab4f137ed29407fa477727b15e63a8",
-      "download_count": 425,
+      "download_count": 428,
       "created_at": "2026-06-30T21:36:08Z",
       "updated_at": "2026-06-30T21:36:09Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 15459649,
       "digest": "sha256:35ab52bfe7bdd8296d90c3687660bde80497599badde840ab615d2f421f5f053",
-      "download_count": 9685,
+      "download_count": 9789,
       "created_at": "2026-06-30T21:36:03Z",
       "updated_at": "2026-06-30T21:36:04Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 14303522,
       "digest": "sha256:8ae82c205078f8edbcaafef4bd59e9823d6696064c2a2ddae2dd15e1ac7b6985",
-      "download_count": 419,
+      "download_count": 421,
       "created_at": "2026-06-30T21:36:10Z",
       "updated_at": "2026-06-30T21:36:11Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 14269571,
       "digest": "sha256:6d45d83a0b49a79a6c10c53ab930e53c082544734c6aa50de3e9f2936f86e65d",
-      "download_count": 299,
+      "download_count": 301,
       "created_at": "2026-06-30T21:36:10Z",
       "updated_at": "2026-06-30T21:36:11Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.rpm"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 14304047,
       "digest": "sha256:b2456cb09d77004db87de2567d6d7588a61ceb4724522c463e2b1c1f87b4d4b9",
-      "download_count": 1692,
+      "download_count": 1754,
       "created_at": "2026-06-30T21:36:05Z",
       "updated_at": "2026-06-30T21:36:06Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_linux_arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 15790190,
       "digest": "sha256:fa55d9424a64c3cc003e393d3aeadf2c4987c7ed8226b5b617442e6c96d8f530",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-06-30T21:36:06Z",
       "updated_at": "2026-06-30T21:36:07Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_amd64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 14801060,
       "digest": "sha256:17310c1dc2e8bd517fc4dee7608faae339d723a53b3e84debd0fcec73fdc13cb",
-      "download_count": 300,
+      "download_count": 302,
       "created_at": "2026-06-30T21:36:06Z",
       "updated_at": "2026-06-30T21:36:07Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_termux_arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 15238071,
       "digest": "sha256:c25e6f88bcb13ab44cb977db07f2b878bf140c397a3fd5582ce5bfb4d2143303",
-      "download_count": 4075,
+      "download_count": 4097,
       "created_at": "2026-06-30T21:36:03Z",
       "updated_at": "2026-06-30T21:36:05Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_amd64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 13814349,
       "digest": "sha256:b1f3f5a9e1643693620307e1d2823011d81b5247b77cdf005579a7f317c2078d",
-      "download_count": 325,
+      "download_count": 327,
       "created_at": "2026-06-30T21:36:05Z",
       "updated_at": "2026-06-30T21:36:06Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.7.3/carapace-bin_1.7.3_windows_arm64.zip"
