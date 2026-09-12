@@ -48,12 +48,12 @@ Total: **437,422** lines of code across **19502** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 67 | 15 | 5 | 2 | 76 |
-| last60d | 2026-07-13 | 0 | 123 | 17 | 9 | 5 | 150 |
-| 90d | 2026-06-13 | 3 | 201 | 18 | 13 | 7 | 295 |
-| last180d | 2026-03-15 | 7 | 342 | 19 | 27 | 15 | 470 |
-| 360d | 2025-09-16 | 18 | 635 | 19 | 62 | 22 | 816 |
-| last720d | 2024-09-21 | 30 | 956 | 21 | 126 | 39 | 2024 |
+| 30d | 2026-08-13 | 0 | 65 | 15 | 5 | 2 | 76 |
+| last60d | 2026-07-14 | 0 | 120 | 17 | 9 | 5 | 150 |
+| 90d | 2026-06-14 | 3 | 197 | 18 | 13 | 7 | 295 |
+| last180d | 2026-03-16 | 7 | 341 | 19 | 27 | 15 | 470 |
+| 360d | 2025-09-17 | 18 | 635 | 19 | 61 | 22 | 816 |
+| last720d | 2024-09-22 | 30 | 952 | 21 | 126 | 39 | 2019 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:43:45Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:23:25Z._
