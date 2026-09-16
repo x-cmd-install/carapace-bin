@@ -14,11 +14,11 @@ x install carapace-bin
 
 ## Code insight
 
-Total: **437,633** lines of code across **19520** files in the top 5 languages.
+Total: **437,636** lines of code across **19520** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 315,474 | 5,114 | 57,629 | 12920 |
+| Go | 315,477 | 5,113 | 57,629 | 12920 |
 | Yaml | 112,493 | 6,383 | 3,633 | 6596 |
 | Json | 6,066 | 0 | 0 | 1 |
 | Css | 3,196 | 22 | 7 | 2 |
@@ -33,7 +33,7 @@ Total: **437,633** lines of code across **19520** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.3` (2026-06-30)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 26
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **437,633** lines of code across **19520** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 3222 · **Open PRs**: 22 · **Closed issues**: 294 · **Open issues**: 69 · **Commits**: 6667
+- **Releases**: 183 · **Merged PRs**: 3223 · **Open PRs**: 22 · **Closed issues**: 294 · **Open issues**: 69 · **Commits**: 6669
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 62 | 10 | 5 | 1 | 66 |
-| last60d | 2026-07-17 | 0 | 119 | 18 | 9 | 5 | 146 |
-| 90d | 2026-06-17 | 3 | 196 | 18 | 13 | 7 | 271 |
-| last180d | 2026-03-19 | 7 | 340 | 20 | 25 | 15 | 460 |
-| 360d | 2025-09-20 | 18 | 637 | 20 | 60 | 22 | 814 |
-| last720d | 2024-09-25 | 30 | 956 | 22 | 126 | 39 | 2023 |
+| 30d | 2026-08-17 | 0 | 61 | 10 | 5 | 1 | 67 |
+| last60d | 2026-07-18 | 0 | 118 | 18 | 9 | 5 | 147 |
+| 90d | 2026-06-18 | 3 | 196 | 18 | 13 | 7 | 272 |
+| last180d | 2026-03-20 | 6 | 339 | 20 | 25 | 15 | 461 |
+| 360d | 2025-09-21 | 18 | 638 | 20 | 60 | 22 | 815 |
+| last720d | 2024-09-26 | 30 | 957 | 22 | 126 | 39 | 2025 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:43:31Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:39:20Z._
