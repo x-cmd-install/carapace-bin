@@ -18,7 +18,7 @@ Total: **438,360** lines of code across **19524** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 316,201 | 5,137 | 57,672 | 12924 |
+| Go | 316,201 | 5,139 | 57,671 | 12924 |
 | Yaml | 112,493 | 6,383 | 3,633 | 6596 |
 | Json | 6,066 | 0 | 0 | 1 |
 | Css | 3,196 | 22 | 7 | 2 |
@@ -38,22 +38,22 @@ Total: **438,360** lines of code across **19524** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,961 · **Forks**: 148 · **Open issues**: 364 · **Contributors**: 76
+- **Stars**: 1,963 · **Forks**: 148 · **Open issues**: 364 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 3228 · **Open PRs**: 23 · **Closed issues**: 295 · **Open issues**: 69 · **Commits**: 6678
+- **Releases**: 183 · **Merged PRs**: 3230 · **Open PRs**: 24 · **Closed issues**: 295 · **Open issues**: 69 · **Commits**: 6681
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 58 | 5 | 5 | 1 | 43 |
-| last60d | 2026-07-23 | 0 | 117 | 19 | 9 | 5 | 132 |
-| 90d | 2026-06-23 | 2 | 187 | 19 | 11 | 7 | 249 |
-| last180d | 2026-03-25 | 6 | 335 | 21 | 23 | 12 | 459 |
-| 360d | 2025-09-26 | 18 | 637 | 21 | 60 | 21 | 814 |
-| last720d | 2024-10-01 | 30 | 960 | 23 | 127 | 39 | 2032 |
+| 30d | 2026-08-23 | 0 | 52 | 6 | 5 | 1 | 45 |
+| last60d | 2026-07-24 | 0 | 118 | 20 | 9 | 5 | 134 |
+| 90d | 2026-06-24 | 2 | 185 | 20 | 11 | 7 | 251 |
+| last180d | 2026-03-26 | 6 | 337 | 22 | 23 | 12 | 461 |
+| 360d | 2025-09-27 | 18 | 639 | 22 | 60 | 21 | 816 |
+| last720d | 2024-10-02 | 30 | 962 | 24 | 127 | 39 | 2033 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:43:31Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:19Z._
