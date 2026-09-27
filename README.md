@@ -33,27 +33,27 @@ Total: **444,687** lines of code across **19773** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.0` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,965 · **Forks**: 149 · **Open issues**: 365 · **Contributors**: 78
+- **Stars**: 1,965 · **Forks**: 149 · **Open issues**: 366 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 3239 · **Open PRs**: 22 · **Closed issues**: 297 · **Open issues**: 68 · **Commits**: 6700
+- **Releases**: 184 · **Merged PRs**: 3241 · **Open PRs**: 23 · **Closed issues**: 298 · **Open issues**: 68 · **Commits**: 6704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 45 | 4 | 6 | 1 | 55 |
-| last60d | 2026-07-28 | 1 | 124 | 17 | 11 | 4 | 146 |
-| 90d | 2026-06-28 | 3 | 181 | 18 | 13 | 6 | 263 |
-| last180d | 2026-03-30 | 7 | 343 | 20 | 25 | 11 | 473 |
-| 360d | 2025-10-01 | 19 | 645 | 20 | 61 | 20 | 828 |
-| last720d | 2024-10-06 | 30 | 968 | 22 | 128 | 38 | 2046 |
+| 30d | 2026-08-28 | 1 | 44 | 5 | 7 | 1 | 39 |
+| last60d | 2026-07-29 | 1 | 126 | 18 | 12 | 2 | 133 |
+| 90d | 2026-06-29 | 3 | 178 | 19 | 14 | 6 | 195 |
+| last180d | 2026-03-31 | 7 | 345 | 21 | 26 | 11 | 475 |
+| 360d | 2025-10-02 | 19 | 643 | 21 | 61 | 20 | 823 |
+| last720d | 2024-10-07 | 30 | 970 | 23 | 129 | 38 | 2050 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:46:48Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:09:05Z._
