@@ -38,22 +38,22 @@ Total: **452,722** lines of code across **20081** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,974 · **Forks**: 148 · **Open issues**: 369 · **Contributors**: 78
+- **Stars**: 1,975 · **Forks**: 150 · **Open issues**: 369 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 3247 · **Open PRs**: 24 · **Closed issues**: 300 · **Open issues**: 69 · **Commits**: 6713
+- **Releases**: 184 · **Merged PRs**: 3247 · **Open PRs**: 28 · **Closed issues**: 300 · **Open issues**: 69 · **Commits**: 6713
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 37 | 5 | 6 | 2 | 45 |
-| last60d | 2026-08-04 | 1 | 119 | 19 | 13 | 2 | 139 |
-| 90d | 2026-07-05 | 1 | 169 | 20 | 15 | 5 | 201 |
-| last180d | 2026-04-06 | 7 | 350 | 22 | 27 | 11 | 481 |
-| 360d | 2025-10-08 | 17 | 646 | 22 | 63 | 21 | 829 |
-| last720d | 2024-10-13 | 30 | 973 | 24 | 131 | 39 | 2057 |
+| 30d | 2026-09-04 | 1 | 33 | 9 | 6 | 2 | 30 |
+| last60d | 2026-08-05 | 1 | 118 | 23 | 13 | 2 | 113 |
+| 90d | 2026-07-06 | 1 | 166 | 24 | 15 | 5 | 185 |
+| last180d | 2026-04-07 | 7 | 350 | 26 | 27 | 11 | 480 |
+| 360d | 2025-10-09 | 17 | 646 | 26 | 62 | 21 | 818 |
+| last720d | 2024-10-14 | 30 | 972 | 28 | 131 | 39 | 2051 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:07:48Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:41:08Z._
