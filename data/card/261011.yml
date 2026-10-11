@@ -1,0 +1,153 @@
+about:
+  description: "A multi-shell completion binary."
+  license: MIT
+  homepage: https://carapace.sh
+  head: 7817576
+  archived: false
+  latestVersion: "v1.8.0"
+  latestRelease: "v1.8.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-11T05:34:40Z
+timeline:
+  created: 2020-04-20
+  lastCommit: 2026-10-10
+  lastVersion: 2026-09-25
+  lastRelease: 2026-09-25
+  lastPrerelease: 
+popularity:
+  star: 1983
+  watcher: 5
+  fork: 150
+  release: 184
+  contributor: 81
+  pullRequest: 3409
+  issue: 369
+language:
+  Go: 14518832
+  Dockerfile: 5130
+  Shell: 1154
+  Nix: 751
+totalBytes: 14525867
+recent:
+  last30d:
+    since: 2026-09-11
+    release: 1
+    mergedPR: 38
+    openPR: 5
+    closedIssue: 6
+    openIssue: 1
+    commit: 48
+  last60d:
+    since: 2026-08-12
+    release: 1
+    mergedPR: 105
+    openPR: 17
+    closedIssue: 11
+    openIssue: 2
+    commit: 117
+  last90d:
+    since: 2026-07-13
+    release: 1
+    mergedPR: 161
+    openPR: 19
+    closedIssue: 15
+    openIssue: 5
+    commit: 199
+  last180d:
+    since: 2026-04-14
+    release: 7
+    mergedPR: 358
+    openPR: 21
+    closedIssue: 25
+    openIssue: 9
+    commit: 502
+  last360d:
+    since: 2025-10-16
+    release: 16
+    mergedPR: 643
+    openPR: 21
+    closedIssue: 60
+    openIssue: 21
+    commit: 835
+  last720d:
+    since: 2024-10-21
+    release: 30
+    mergedPR: 976
+    openPR: 23
+    closedIssue: 130
+    openIssue: 38
+    commit: 2076
+total:
+  release: 184
+  mergedPR: 3256
+  openPR: 23
+  closedIssue: 300
+  openIssue: 69
+  commit: 6748
+---
+path: /home/runner/.x-repo/github.com/carapace-sh/carapace-bin
+collectedAt: 2026-10-11T05:34:46Z
+loc:
+  Go:
+    code: 334487
+    comments: 5300
+    blanks: 61197
+    files: 13656
+  Yaml:
+    code: 117657
+    comments: 6553
+    blanks: 4308
+    files: 6766
+  Json:
+    code: 6066
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 3196
+    comments: 22
+    blanks: 7
+    files: 2
+  Handlebars:
+    code: 322
+    comments: 16
+    blanks: 33
+    files: 1
+  Sh:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 2
+  Nix:
+    code: 23
+    comments: 0
+    blanks: 4
+    files: 2
+  Toml:
+    code: 19
+    comments: 0
+    blanks: 3
+    files: 1
+  JavaScript:
+    code: 10
+    comments: 1
+    blanks: 0
+    files: 2
+  Bitbake:
+    code: 1
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 38354
+    blanks: 15974
+    files: 371
+total:
+  code: 470644
+  comments: 51284
+  blanks: 82277
+  files: 20805
+---
+
+---
