@@ -14,11 +14,11 @@ x install carapace-bin
 
 ## Code insight
 
-Total: **468,673** lines of code across **20702** files in the top 5 languages.
+Total: **476,692** lines of code across **21078** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 341,350 | 5,384 | 62,530 | 13932 |
+| Go | 349,369 | 5,452 | 64,197 | 14308 |
 | Yaml | 117,657 | 6,553 | 4,308 | 6766 |
 | Json | 6,066 | 0 | 0 | 1 |
 | Css | 3,196 | 22 | 7 | 2 |
@@ -33,27 +33,27 @@ Total: **468,673** lines of code across **20702** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.1` (2026-10-17)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,992 · **Forks**: 151 · **Open issues**: 374 · **Contributors**: 84
+- **Stars**: 1,993 · **Forks**: 151 · **Open issues**: 374 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 3276 · **Open PRs**: 17 · **Closed issues**: 309 · **Open issues**: 65 · **Commits**: 6787
+- **Releases**: 185 · **Merged PRs**: 3282 · **Open PRs**: 16 · **Closed issues**: 310 · **Open issues**: 64 · **Commits**: 6802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 44 | 0 | 9 | 1 | 44 |
-| last60d | 2026-08-21 | 2 | 107 | 4 | 15 | 2 | 113 |
-| 90d | 2026-07-22 | 2 | 167 | 13 | 19 | 5 | 202 |
-| last180d | 2026-04-23 | 8 | 378 | 14 | 28 | 8 | 514 |
-| 360d | 2025-10-25 | 17 | 653 | 14 | 66 | 19 | 838 |
-| last720d | 2024-10-30 | 31 | 983 | 16 | 134 | 36 | 2087 |
+| 30d | 2026-09-21 | 2 | 46 | 1 | 9 | 1 | 53 |
+| last60d | 2026-08-22 | 2 | 109 | 2 | 14 | 2 | 122 |
+| 90d | 2026-07-23 | 2 | 171 | 13 | 19 | 5 | 211 |
+| last180d | 2026-04-24 | 8 | 384 | 14 | 28 | 8 | 523 |
+| 360d | 2025-10-26 | 17 | 654 | 14 | 66 | 19 | 847 |
+| last720d | 2024-10-31 | 31 | 988 | 16 | 135 | 35 | 2100 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:37:00Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:30:04Z._
