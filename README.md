@@ -14,11 +14,11 @@ x install carapace-bin
 
 ## Code insight
 
-Total: **482,598** lines of code across **21240** files in the top 5 languages.
+Total: **512,201** lines of code across **22428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 355,275 | 5,578 | 65,115 | 14470 |
+| Go | 384,878 | 5,580 | 71,093 | 15658 |
 | Yaml | 117,657 | 6,553 | 4,308 | 6766 |
 | Json | 6,066 | 0 | 0 | 1 |
 | Css | 3,196 | 22 | 7 | 2 |
@@ -33,27 +33,27 @@ Total: **482,598** lines of code across **21240** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.1` (2026-10-17)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,997 · **Forks**: 151 · **Open issues**: 374 · **Contributors**: 84
+- **Stars**: 1,998 · **Forks**: 151 · **Open issues**: 374 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 3289 · **Open PRs**: 10 · **Closed issues**: 313 · **Open issues**: 61 · **Commits**: 6823
+- **Releases**: 185 · **Merged PRs**: 3294 · **Open PRs**: 7 · **Closed issues**: 318 · **Open issues**: 56 · **Commits**: 6831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 46 | 0 | 9 | 1 | 66 |
-| last60d | 2026-08-23 | 2 | 103 | 1 | 14 | 2 | 135 |
-| 90d | 2026-07-24 | 2 | 177 | 7 | 19 | 5 | 228 |
-| last180d | 2026-04-25 | 8 | 391 | 8 | 28 | 8 | 540 |
-| 360d | 2025-10-27 | 17 | 656 | 8 | 66 | 19 | 864 |
-| last720d | 2024-11-01 | 31 | 995 | 10 | 135 | 35 | 2119 |
+| 30d | 2026-09-23 | 2 | 45 | 0 | 9 | 1 | 70 |
+| last60d | 2026-08-24 | 2 | 101 | 1 | 14 | 2 | 139 |
+| 90d | 2026-07-25 | 2 | 180 | 4 | 19 | 5 | 233 |
+| last180d | 2026-04-26 | 8 | 388 | 5 | 27 | 8 | 545 |
+| 360d | 2025-10-28 | 17 | 661 | 5 | 66 | 19 | 869 |
+| last720d | 2024-11-02 | 31 | 1000 | 7 | 134 | 35 | 2127 |
 
 ## Release assets
 
@@ -86,6 +86,10 @@ Total: **482,598** lines of code across **21240** files in the top 5 languages.
 | [carapace-bin_1.8.1_windows_amd64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.1/carapace-bin_1.8.1_windows_amd64.zip) | 17.5 MiB | `native/win/x64` |
 | [carapace-bin_1.8.1_windows_arm64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.1/carapace-bin_1.8.1_windows_arm64.zip) | 15.9 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/carapace-bin). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for carapace-bin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `carapace-bin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:28:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:33:09Z._

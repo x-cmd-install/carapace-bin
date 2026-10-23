@@ -14,11 +14,11 @@ x install carapace-bin
 
 ## 代码洞察
 
-合计: **482,598** 行代码（覆盖前 5 种语言、共 **21240** 个文件）。
+合计: **512,201** 行代码（覆盖前 5 种语言、共 **22428** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 355,275 | 5,578 | 65,115 | 14470 |
+| Go | 384,878 | 5,580 | 71,093 | 15658 |
 | Yaml | 117,657 | 6,553 | 4,308 | 6766 |
 | Json | 6,066 | 0 | 0 | 1 |
 | Css | 3,196 | 22 | 7 | 2 |
@@ -33,27 +33,27 @@ x install carapace-bin
 ## 发布
 
 - **最新版本**: `v1.8.1` (2026-10-17)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 1,997 · **Fork**: 151 · **开放 issue**: 374 · **贡献者**: 84
+- **Star**: 1,998 · **Fork**: 151 · **开放 issue**: 374 · **贡献者**: 84
 
 ## 累计统计
 
-- **发布数**: 185 · **已合并 PR**: 3289 · **开放 PR**: 10 · **已关闭 issue**: 313 · **开放 issue**: 61 · **提交数**: 6823
+- **发布数**: 185 · **已合并 PR**: 3294 · **开放 PR**: 7 · **已关闭 issue**: 318 · **开放 issue**: 56 · **提交数**: 6831
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 46 | 0 | 9 | 1 | 66 |
-| last60d | 2026-08-23 | 2 | 103 | 1 | 14 | 2 | 135 |
-| 90d | 2026-07-24 | 2 | 177 | 7 | 19 | 5 | 228 |
-| last180d | 2026-04-25 | 8 | 391 | 8 | 28 | 8 | 540 |
-| 360d | 2025-10-27 | 17 | 656 | 8 | 66 | 19 | 864 |
-| last720d | 2024-11-01 | 31 | 995 | 10 | 135 | 35 | 2119 |
+| 30d | 2026-09-23 | 2 | 45 | 0 | 9 | 1 | 70 |
+| last60d | 2026-08-24 | 2 | 101 | 1 | 14 | 2 | 139 |
+| 90d | 2026-07-25 | 2 | 180 | 4 | 19 | 5 | 233 |
+| last180d | 2026-04-26 | 8 | 388 | 5 | 27 | 8 | 545 |
+| 360d | 2025-10-28 | 17 | 661 | 5 | 66 | 19 | 869 |
+| last720d | 2024-11-02 | 31 | 1000 | 7 | 134 | 35 | 2127 |
 
 ## Release 资产
 
@@ -86,6 +86,10 @@ x install carapace-bin
 | [carapace-bin_1.8.1_windows_amd64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.1/carapace-bin_1.8.1_windows_amd64.zip) | 17.5 MiB | `native/win/x64` |
 | [carapace-bin_1.8.1_windows_arm64.zip](https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.1/carapace-bin_1.8.1_windows_arm64.zip) | 15.9 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/carapace-bin) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 carapace-bin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `carapace-bin` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +99,4 @@ carapace-bin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:28:00Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:33:10Z._
