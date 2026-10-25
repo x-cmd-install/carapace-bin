@@ -33,27 +33,27 @@ Total: **512,736** lines of code across **22457** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.1` (2026-10-17)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 2,003 · **Forks**: 152 · **Open issues**: 374 · **Contributors**: 85
+- **Stars**: 2,001 · **Forks**: 153 · **Open issues**: 374 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 3297 · **Open PRs**: 7 · **Closed issues**: 320 · **Open issues**: 54 · **Commits**: 6838
+- **Releases**: 185 · **Merged PRs**: 3298 · **Open PRs**: 8 · **Closed issues**: 320 · **Open issues**: 54 · **Commits**: 6840
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 46 | 1 | 8 | 1 | 73 |
-| last60d | 2026-08-25 | 2 | 99 | 2 | 14 | 2 | 142 |
-| 90d | 2026-07-26 | 2 | 182 | 3 | 20 | 4 | 237 |
-| last180d | 2026-04-27 | 8 | 387 | 5 | 28 | 7 | 549 |
-| 360d | 2025-10-29 | 17 | 660 | 5 | 68 | 17 | 873 |
-| last720d | 2024-11-03 | 31 | 1002 | 7 | 136 | 33 | 2134 |
+| 30d | 2026-09-25 | 2 | 46 | 2 | 7 | 1 | 62 |
+| last60d | 2026-08-26 | 2 | 94 | 3 | 14 | 2 | 125 |
+| 90d | 2026-07-27 | 2 | 183 | 4 | 20 | 4 | 224 |
+| last180d | 2026-04-28 | 8 | 382 | 6 | 28 | 7 | 533 |
+| 360d | 2025-10-30 | 17 | 656 | 6 | 67 | 17 | 856 |
+| last720d | 2024-11-04 | 31 | 1003 | 8 | 136 | 33 | 2136 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:23:54Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:27:51Z._
