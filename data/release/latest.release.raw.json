@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21610702,
       "digest": "sha256:1a65688cebb4e8a96a348b704a39719b4493312906e35dca4cc6b34b2da1fde5",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-01T14:36:15Z",
       "updated_at": "2026-11-01T14:36:16Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_android_amd64.termux.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20203296,
       "digest": "sha256:3ec76a54a2596899bfaa6e7e9c51be952a4c06ac2bf874fc8ed76ff392c65c4c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-01T14:36:13Z",
       "updated_at": "2026-11-01T14:36:14Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_android_arm64.termux.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23851052,
       "digest": "sha256:97557b3179fdd9fb06a97144e30755dac3028ec52821cef011a08a290fd0378a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-01T14:36:13Z",
       "updated_at": "2026-11-01T14:36:14Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_android_armv6.termux.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20469138,
       "digest": "sha256:4ea74b50828bbef60ebb1726829e52788b2c08817ec776fb121b2886d03ab5fe",
-      "download_count": 31,
+      "download_count": 36,
       "created_at": "2026-11-01T14:36:07Z",
       "updated_at": "2026-11-01T14:36:08Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_darwin_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19711364,
       "digest": "sha256:d9c05be343f19005f4bd568f2cedd8307c358e82aff32ebfb2d42af0c52b28ea",
-      "download_count": 217,
+      "download_count": 236,
       "created_at": "2026-11-01T14:36:07Z",
       "updated_at": "2026-11-01T14:36:08Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_darwin_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 19467250,
       "digest": "sha256:89c40db8017248d938bb75a840e5fd03ff8a6443f099f5a25523e5bbce21a601",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-01T14:36:13Z",
       "updated_at": "2026-11-01T14:36:14Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_386.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 20138309,
       "digest": "sha256:76f835cfa785b80aaf4b06bac1b95a90ffe67e8b58a279b765762d3dfa539137",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-01T14:36:11Z",
       "updated_at": "2026-11-01T14:36:13Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_386.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21082446,
       "digest": "sha256:759158a54a41c343e5554ae9c2d84c37aa1c532f659a7f3cfd0b6f4355141061",
-      "download_count": 44,
+      "download_count": 47,
       "created_at": "2026-11-01T14:36:13Z",
       "updated_at": "2026-11-01T14:36:14Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 21823614,
       "digest": "sha256:32d945a6ae70c6d42788db25272f3725d094f22c135f2614db9f6e4bb9940901",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-01T14:36:11Z",
       "updated_at": "2026-11-01T14:36:13Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_amd64.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 21082604,
       "digest": "sha256:1b3dc4cab51361d3443400aefa4314ad8d44d8414bf4b1d18f41a6fe71b1b0e4",
-      "download_count": 1903,
+      "download_count": 2264,
       "created_at": "2026-11-01T14:36:05Z",
       "updated_at": "2026-11-01T14:36:07Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 19461526,
       "digest": "sha256:1e44575128e35554eec39e8b8d04aad0177ef74696ccd5be48f85cd2672a7126",
-      "download_count": 106,
+      "download_count": 118,
       "created_at": "2026-11-01T14:36:05Z",
       "updated_at": "2026-11-01T14:36:06Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_linux_arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 21612185,
       "digest": "sha256:af0d8d57f8eb5befb7345d2c5c79c6d42ebbd51eaff0285d996e7c75e15d5b6d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T14:36:08Z",
       "updated_at": "2026-11-01T14:36:11Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_termux_amd64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 20204980,
       "digest": "sha256:d95501eff7b76fcacf468bec08fde5d6fa27b9b810eb3354dabb01878a61ce85",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T14:36:09Z",
       "updated_at": "2026-11-01T14:36:10Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_termux_arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 19867270,
       "digest": "sha256:ed326c630ff01227f90b73ba54a98ac766e348378fe5b7cc14a02805551297fd",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-01T14:36:05Z",
       "updated_at": "2026-11-01T14:36:07Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_windows_386.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 20392742,
       "digest": "sha256:44ac5d1f16bf38df559259783680925fe9625e467e020b180ea1e8d7c721d4e5",
-      "download_count": 1313,
+      "download_count": 1429,
       "created_at": "2026-11-01T14:36:07Z",
       "updated_at": "2026-11-01T14:36:08Z",
       "browser_download_url": "https://github.com/carapace-sh/carapace-bin/releases/download/v1.8.2/carapace-bin_1.8.2_windows_amd64.zip"
