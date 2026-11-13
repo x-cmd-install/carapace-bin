@@ -33,27 +33,27 @@ Total: **517,645** lines of code across **22753** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.2` (2026-11-01)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-13
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 2,011 · **Forks**: 158 · **Open issues**: 376 · **Contributors**: 89
+- **Stars**: 2,012 · **Forks**: 158 · **Open issues**: 376 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 3330 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6930
+- **Releases**: 186 · **Merged PRs**: 3331 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 52 | 2 | 5 | 1 | 100 |
-| last60d | 2026-09-13 | 3 | 97 | 2 | 13 | 1 | 161 |
-| 90d | 2026-08-14 | 3 | 172 | 3 | 18 | 2 | 241 |
-| last180d | 2026-05-16 | 7 | 374 | 5 | 29 | 7 | 567 |
-| 360d | 2025-11-17 | 17 | 661 | 5 | 69 | 17 | 906 |
-| last720d | 2024-11-22 | 32 | 1021 | 7 | 135 | 29 | 2203 |
+| 30d | 2026-10-14 | 2 | 51 | 2 | 5 | 0 | 101 |
+| last60d | 2026-09-14 | 3 | 95 | 2 | 13 | 1 | 162 |
+| 90d | 2026-08-15 | 3 | 169 | 3 | 18 | 2 | 242 |
+| last180d | 2026-05-17 | 7 | 375 | 5 | 29 | 7 | 568 |
+| 360d | 2025-11-18 | 16 | 662 | 5 | 69 | 17 | 907 |
+| last720d | 2024-11-23 | 32 | 1021 | 7 | 135 | 29 | 2201 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:42Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:29Z._
