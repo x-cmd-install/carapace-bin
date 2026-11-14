@@ -14,15 +14,15 @@ x install carapace-bin
 
 ## Code insight
 
-Total: **517,645** lines of code across **22753** files in the top 5 languages.
+Total: **515,756** lines of code across **22754** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 391,964 | 5,912 | 72,544 | 15967 |
 | Yaml | 117,654 | 6,569 | 4,308 | 6782 |
 | Json | 6,066 | 0 | 0 | 1 |
-| Css | 1,575 | 22 | 7 | 2 |
-| Handlebars | 314 | 16 | 41 | 1 |
+| Sh | 29 | 2 | 7 | 2 |
+| Nix | 23 | 0 | 4 | 2 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **517,645** lines of code across **22753** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,012 · **Forks**: 158 · **Open issues**: 376 · **Contributors**: 89
+- **Stars**: 2,013 · **Forks**: 157 · **Open issues**: 376 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 3331 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6932
+- **Releases**: 186 · **Merged PRs**: 3332 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6935
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 51 | 2 | 5 | 0 | 101 |
-| last60d | 2026-09-14 | 3 | 95 | 2 | 13 | 1 | 162 |
-| 90d | 2026-08-15 | 3 | 169 | 3 | 18 | 2 | 242 |
-| last180d | 2026-05-17 | 7 | 375 | 5 | 29 | 7 | 568 |
-| 360d | 2025-11-18 | 16 | 662 | 5 | 69 | 17 | 907 |
-| last720d | 2024-11-23 | 32 | 1021 | 7 | 135 | 29 | 2201 |
+| 30d | 2026-10-15 | 2 | 52 | 2 | 5 | 0 | 103 |
+| last60d | 2026-09-15 | 3 | 95 | 2 | 13 | 1 | 164 |
+| 90d | 2026-08-16 | 3 | 165 | 3 | 18 | 2 | 244 |
+| last180d | 2026-05-18 | 7 | 374 | 5 | 29 | 6 | 570 |
+| 360d | 2025-11-19 | 16 | 663 | 5 | 69 | 17 | 909 |
+| last720d | 2024-11-24 | 32 | 1022 | 7 | 135 | 29 | 2202 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:29Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:07:17Z._
