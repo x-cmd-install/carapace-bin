@@ -33,27 +33,27 @@ Total: **515,756** lines of code across **22754** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.2` (2026-11-01)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 2,013 · **Forks**: 157 · **Open issues**: 376 · **Contributors**: 89
+- **Stars**: 2,015 · **Forks**: 157 · **Open issues**: 376 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 3332 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6935
+- **Releases**: 186 · **Merged PRs**: 3333 · **Open PRs**: 7 · **Closed issues**: 330 · **Open issues**: 46 · **Commits**: 6937
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 52 | 2 | 5 | 0 | 103 |
-| last60d | 2026-09-15 | 3 | 95 | 2 | 13 | 1 | 164 |
-| 90d | 2026-08-16 | 3 | 165 | 3 | 18 | 2 | 244 |
-| last180d | 2026-05-18 | 7 | 374 | 5 | 29 | 6 | 570 |
-| 360d | 2025-11-19 | 16 | 663 | 5 | 69 | 17 | 909 |
-| last720d | 2024-11-24 | 32 | 1022 | 7 | 135 | 29 | 2202 |
+| 30d | 2026-10-16 | 2 | 53 | 2 | 4 | 0 | 72 |
+| last60d | 2026-09-16 | 3 | 95 | 2 | 13 | 1 | 146 |
+| 90d | 2026-08-17 | 3 | 164 | 3 | 18 | 2 | 220 |
+| last180d | 2026-05-19 | 7 | 375 | 4 | 29 | 6 | 561 |
+| 360d | 2025-11-20 | 16 | 663 | 5 | 69 | 17 | 902 |
+| last720d | 2024-11-25 | 32 | 1020 | 7 | 135 | 29 | 2201 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for carapace-bin lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:07:17Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:10:19Z._
