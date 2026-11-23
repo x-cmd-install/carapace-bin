@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: extras
-  binname: carapace-bin
-  visiblename: carapace-bin
-  version: 1.8.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: carapace-bin
   binnames:
@@ -23,3 +14,12 @@
     - MIT
   categories:
     - Shells
+- repo: scoop
+  subrepo: extras
+  binname: carapace-bin
+  visiblename: carapace-bin
+  version: 1.8.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
