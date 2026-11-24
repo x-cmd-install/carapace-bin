@@ -18,7 +18,7 @@
   subrepo: extras
   binname: carapace-bin
   visiblename: carapace-bin
-  version: 1.8.4
+  version: 1.8.5
   origversion: null
   status: newest
   licenses:
